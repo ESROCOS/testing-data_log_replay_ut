@@ -1,0 +1,8 @@
+echo "Diff for motion2d_consumer.cc.csv:"
+diff double_consumer.cc.csv ../data_logger_ut/double_consumer.cc.csv
+echo
+echo "Diff for motion2d_consumer.cc.csv:"
+diff rbs_consumer.cc.csv ../data_logger_ut/rbs_consumer.cc.csv
+echo
+echo "Diff for motion2d_consumer.cc.csv:"
+diff motion2d_consumer.cc.csv ../data_logger_ut/motion2d_consumer.cc.csv
